@@ -1,2 +1,5 @@
 # Sql_Tutorial 
-this will be fun
+this material is for sql beginners
+i am not sure why this wont change
+
+
