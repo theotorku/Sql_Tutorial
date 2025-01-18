@@ -1,2 +1,3 @@
 # Sql_Tutorial 
-this will be fun
+this material is for sql beginners
+
